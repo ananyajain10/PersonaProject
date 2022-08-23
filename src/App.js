@@ -1,7 +1,7 @@
 import './App.css';
-import Person from './Person';
-import Main from './Main';
-import Footer from './Footer';
+import Person from './Component/Person';
+import Main from './Component/Main';
+import Footer from './Component/Footer';
 function App() {
   return (
     <div className="App">

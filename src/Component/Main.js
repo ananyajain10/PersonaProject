@@ -1,7 +1,7 @@
 import React from 'react'
-import './style.css'
-import email from "./icons/email.jpg"
-import linkedin from "./icons/linkedin.jpg"
+import '../style.css'
+import email from "../icons/email.jpg"
+import linkedin from "../icons/linkedin.jpg"
 
 
 function Main(){

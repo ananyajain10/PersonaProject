@@ -1,9 +1,9 @@
 import React from 'react'
-import './style.css'
-import twitter from "./icons/twitter.jpg"
-import facebook from "./icons/facebook.jpg"
-import insta from "./icons/instagrm.jpg"
-import github from "./icons/github.jpg"
+import '../style.css'
+import twitter from "../icons/twitter.jpg"
+import facebook from "../icons/facebook.jpg"
+import insta from "../icons/instagrm.jpg"
+import github from "../icons/github.jpg"
 function Footer(){
     return(
         <footer className='footer'>

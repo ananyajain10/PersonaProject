@@ -1,6 +1,6 @@
 import React from 'react' 
-import image from './image.png'
-import "./style.css"
+import image from '../image.png'
+import "../style.css"
 function Person(){
     return(
         <img src={image}
