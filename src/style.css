@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    display: flex;
+    background-color: black;
+    max-height: fit-content;
+}
+
+.image-style{
+    height: 444px;
+    border-radius: 10px;
+    width: 448px;
+    margin-top: 90px;
+}
+.main_name{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.main_fon{
+    color: rgb(244, 164, 24);
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.main_web{
+    color: aliceblue;
+    font-size: small;
+    margin-top: 5px;
+}
+.a--email{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.b--email{
+    border-radius: 9px;
+    margin-right: 60px;
+    margin-left: 50px;
+    padding: 5px;
+    background-color: aliceblue;
+    size: 10px;
+}
+.b--linkedin{
+    border-radius: 9px;
+    margin-right: 60px;
+    padding: 5px;
+    background-color: rgb(31, 100, 228);
+}
+.a-icon-email{
+    height: 20px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.a--linkedin{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+}
+/* about and interest */
+.group{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 100px;
+    width: 513px;
+}
+.content--head{
+    font-weight: bold;
+    font-family: Inter;
+    margin-bottom: 2px;
+    margin-top: 90px;
+}
+.content--p2{
+    margin-top: 0px;
+}
+/* footer */
+.footer{
+    margin-top: 136px;
+    height: 71px;
+    background-color: rgb(45, 20, 20);
+    
+
+}
+.button-icon{
+    padding: 15px; 
+} 
+.button-icon-insta{
+    height: 56px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 8px;
+    margin-bottom: 11px;
+}
